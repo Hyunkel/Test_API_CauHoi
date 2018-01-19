@@ -25,7 +25,7 @@ app.get('/cauhoi', async function(req, res){
 
 
 
-app.listen(3003, function(){
-    console.log('Example app listening on port 3000!');
+app.listen(3010, function(){
+    console.log('Example app listening on port 3010!');
 })
 module.exports = app;
